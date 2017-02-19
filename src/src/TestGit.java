@@ -4,4 +4,6 @@
 public class TestGit {
 
     private  int m1;
+
+    private  int m2;
 }
