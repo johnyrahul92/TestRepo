@@ -7,7 +7,9 @@ public class TestGit {
 
     private int m4;
 
-    private int m5;
+    private int m6;
+
+    private int m7;
 
     private int m9;
 
