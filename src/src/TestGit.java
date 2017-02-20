@@ -3,7 +3,10 @@
  */
 public class TestGit {
 
-    private  int m1;
+    private int m1;
 
-    private  int m3;
+    private int m4;
+
+    private int m5;
+
 }
