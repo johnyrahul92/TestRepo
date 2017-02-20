@@ -9,4 +9,6 @@ public class TestGit {
 
     private int m6;
 
+    private int m7;
+
 }
