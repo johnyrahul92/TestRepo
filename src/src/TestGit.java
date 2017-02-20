@@ -7,6 +7,6 @@ public class TestGit {
 
     private int m4;
 
-    private int m5;
+    private int m6;
 
 }
